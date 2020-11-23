@@ -1,0 +1,30 @@
+#caixa_abas{
+/*    border: 1px solid black; */
+    width: 380px; /* largura  */
+    height: 30pt;  /* altura  */
+    padding: 5px;
+    display: flex;
+}
+
+.abas {
+    border: 1px solid black;
+    width: 100px; /* largura  */
+    height: 10pt;  /* altura  */
+    padding: 10pt;
+    background-color: rgba(57, 230, 135, 0.658); 
+    text-align:center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#caixa_conteudo{
+/*    border: 1px solid black; */
+    width: 380px; /* largura  */
+    height: 300pt;  /* altura  */
+    padding: 5px;
+    
+}
+.caixa_imagens{
+    width: 200px;
+    height: 250px;
+}

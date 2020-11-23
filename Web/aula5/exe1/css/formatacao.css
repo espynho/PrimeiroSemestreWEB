@@ -1,0 +1,15 @@
+.titulo {
+    font-size: 15pt;
+    color: #cccccc;
+    background-color:#000033;
+    font-weight: 700;
+}
+
+.itens {
+    color: #cccccc;
+    background-color:#000066;
+}
+
+.tabela {
+    background-color: #cccccc;
+}

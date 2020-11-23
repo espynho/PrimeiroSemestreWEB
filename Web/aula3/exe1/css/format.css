@@ -1,0 +1,42 @@
+/* formatção para o formulario */
+
+/* tabela */
+table{
+    border: 5px solid black;
+    width: 450px; /* largura  */
+    height: 400px;  /* altura  */
+    padding: 30px;
+    background-color: bisque;
+}
+
+/* textos */
+
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+    text-align: left;
+}
+
+.conteudo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    text-align: left;
+}
+
+.especial{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.caixas{
+    height: 25px;
+    width: 200px;
+    background-color: rgb(250, 242, 137); 
+}
+
+.botao{
+    text-align: left;
+}

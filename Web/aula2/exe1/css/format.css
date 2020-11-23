@@ -1,0 +1,47 @@
+/* formatação da tabela de preços */
+.tabela{
+    background-color: rgba(240, 240, 250, 0.322);
+    border-top: 10px solid rgba(240, 240, 250, 0.322);
+    
+}
+#titulo1{
+   background-color: rgba(224, 224, 224, 0.37);
+   border-top: 4px solid rgba(224, 224, 224, 0.993); 
+}
+
+#titulo2{
+    background-color: rgba(225, 242, 195, 0.37);
+    border-top: 4px solid rgba(225, 242, 195, 0.993); 
+ }
+
+ #titulo3{
+    background-color: rgba(198, 216, 241, 0.521);
+    border-top: 4px solid rgba(198, 216, 241, 0.993); 
+ } 
+
+ #titulo4{
+    background-color: rgba(223, 213, 237, 0.596);
+    border-top: 4px solid rgba(223, 213, 237, 0.993); 
+ } 
+
+ #titulo5{
+    background-color: rgba(241, 220, 201, 0.575);
+    border-top: 4px solid rgba(241, 220, 201, 0.993); 
+ } 
+
+
+th{
+    width: 130px;
+    height: 40px;
+    text-align: center; 
+}
+td{
+    background-color:rgba(240, 240, 250, 0.288) ;
+    width: 130px;
+    height: 40px;
+    text-align: center;
+}
+
+.titulos{
+    font-weight: bold;
+}
