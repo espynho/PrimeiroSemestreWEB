@@ -1,7 +1,7 @@
 /* local
  * web
  * ok
- * 
+ * ok
  */
 package primeiralistapoo;
 import java.util.Scanner ;
