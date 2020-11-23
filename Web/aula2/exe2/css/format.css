@@ -1,0 +1,79 @@
+/* formatação do formulario */
+.caixa{
+    border: 2px solid black;
+    width: 400px; /* largura */
+    height: 380px; /* altura */
+    padding: 20px; /* espaçamento interno */
+    background-color: rgb(139, 69, 19) ; /* cor adquirida com a paleta de cores */
+    border-radius: 25px;
+}
+
+#titulo {
+    color: white; /* cor das letras */
+    font-size: x-large; /* tamanho */
+    text-align: center; /* alinhamento do texto */
+    font-weight:bold; /* negrito no texto */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 3px 5px  black; /* sombra */
+}
+
+#subtitulo {
+    color: white; /* cor das letras */
+    font-size: smaller; /* tamanho */
+    text-align: center; /* alinhamento do texto */
+    font-weight:bold; /* negrito no texto */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 3px 5px  black; /* sombra */
+}
+
+td {
+    color: white; /* cor das letras */
+    text-align: right; /* alinhamento do texto */
+    vertical-align: top; /* alinhamento vertical (mensagem) */
+    padding: 6px; /* espaçamento texto e caixas */
+    font-weight:bold; /* negrito no texto */
+    font-size: smaller; /* tamanho */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 3px 5px  black; /*sombra */
+}
+
+.entrada{
+    width: 280px;
+    height: 27px;
+    border-radius: 3px;
+    background-color: rgb(245, 222, 179);
+    box-shadow: 2px 2px 3px black ;
+    border: black;
+}
+
+#assunto{ /* id criada por conta do alinhamento diferente em relação aos intens de entrada */
+    width: 280px;
+    height: 27px;
+    border-radius: 3px;
+    background-color: rgb(245, 222, 179);
+    box-shadow: 2px 2px 3px black ;
+    border: black;
+    float: left; ;
+}
+
+#mensagem{ /* id criada por conta do tamanho diferente em relação aos itens de entrada */
+    width: 280px;
+    /* height: 25px; */
+    border-radius: 3px;
+    background-color: rgb(245, 222, 179);
+    box-shadow: 2px 2px 3px black ;
+    border: black;
+}
+
+.botao{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border:20px black;
+    block-size: 35px; /* altura */
+    width: 80px; /* largura */
+    float:left;
+    border-radius: 4px;
+        
+}
+

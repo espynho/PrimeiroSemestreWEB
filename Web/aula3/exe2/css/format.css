@@ -1,0 +1,17 @@
+/* formatação para pagina nome html com JS */
+.meunome{
+    font-size: 50pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    border-radius: 130px;
+    color: white;
+    text-align: center;
+}
+
+#testeid{
+    font-size: 20pt;
+    width: 500px;
+    background-color: thistle;
+
+}

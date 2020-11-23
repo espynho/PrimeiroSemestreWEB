@@ -1,0 +1,51 @@
+.caixa {
+    width: 320px; 
+    height: 220px;
+    align-items: center;
+    border: 1px solid black;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    font-size: 10pt;
+    text-align: center;
+    border-radius: 25px;
+margin: 10px;
+}
+#figura{
+    width: 150px;
+    height: 150px;
+    padding-left: initial;
+    background-color: white;
+    float: left;
+    
+}
+#tituloM{
+    font-size: 20px;
+    background-color: rgb(38, 109, 240);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+#tituloF{
+    font-size: 20px;
+    background-color: rgb(239, 83, 245);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+#tituloFinalM{   
+    font-size: 20px;
+    background-color: rgb(38, 109, 240);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+#tituloFinalF{
+    font-size: 20px;
+    background-color: rgb(239, 83, 245);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+#tituloU{
+    font-size: 20px;
+    background-color: rgb(225, 228, 76);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <!-- Formulario para aula de Web primeiro semestre -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/format.css">
+    <title>Formulario Web aula 2</title>
+</head>
+<body>
+    
+<div class="caixa">
+    <p id="titulo">Fomulário de Contato</p>
+    <p id="subtitulo">Preencha todos os campos</p>
+    <hr color="">
+    
+<!-- ================================ inicio da tabela ================================-->
+    <!-- <tr> define linha <td> define coluna-->
+    <table border="0"> <!-- border criado para ajudar no layout, valor 1 para manutenção -->
+            <tr>
+                <td>Nome:</td>
+                <td><input type="text" name="nome" placeholder="Nome completo" class="entrada"/></td>
+            </tr>
+            
+            <tr>
+                <td>Email:</td>
+                <td><input type="email" name="email" placeholder="E-mail valido" class="entrada"/></td>
+            
+            </tr>
+            
+            <tr>
+                <td>Assunto:</td>
+                <td><select id="assunto">
+                    <option value=""></option>
+                    <option value="nada" >epaco espaco espaco espa</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Mensagem:</td>
+                <td>
+                    <form>
+                    <textarea rows="4" cols="20" name="caixa" placeholder="Sua mensagem" id="mensagem"></textarea>
+                    </form>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" name="enviar" class="botao">
+                </td>
+            </tr>
+    </table>
+<!-- =================================== fim da tabela ================================-->    
+</div>
+</body>
+</html>

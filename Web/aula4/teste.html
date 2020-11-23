@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="radio" name="sexo" id="M">masculino<br>
+    <input type="radio" name="sexo" value="F">feminino<br>
+    <input type="button" name="botao1" value="verificar" id="ver">
+
+   <script>
+       "use strict";
+       let sexo;
+       sexo = document.getElementsByName(sexo).value;
+
+       function verificarSexo(){
+       if(sexo == "M"){
+           alert("Masculino");
+       }
+       if(sexo == "F"){
+           alert("Feminino");
+       }
+    
+       }
+       document.getElementById("ver").onclick = function(){
+           verificarSexo();
+       }
+   </script> 
+</body>
+</html>

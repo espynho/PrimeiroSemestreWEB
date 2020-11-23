@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contibuinte>
+    <usuario>
+        <nome>Miguel Calebe da Cruz</nome>
+        <CPF>750.295.893-25</CPF>
+        <RG>41.273.659-7</RG>
+        <data_de_nascimento>02\/10\/1997</data_de_nascimento>
+        <endereco>
+            <logradouro>Rodovia BR-381 Fernão Dias</logradouro>
+            <numero>163</numero>
+            <bairro>Santo Antônio</bairro>
+            <cep>32684-296</cep>
+            <cidade>Betim</cidade>
+            <estado>MG</estado>
+        </endereco>
+        <contato>
+            <telefone>(31) 2815-3743</telefone>
+            <celular>(31) 98537-9254</celular>
+            <email>mmiguelcalebedacruz@hotmail</email>
+        </contato>
+        <renda>5.000</renda>
+        <foto></foto>
+        <conta_corrente>
+            <banco>Itaú</banco>
+            <agencia>3891</agencia>
+            <numero_da_conta>93707-4</numero_da_conta>
+        </conta_corrente>
+    </usuario>
+    <usuario>
+        <nome>Esther Lúcia Marli Ramos</nome>
+        <CPF>385.765.010-90</CPF>
+        <RG>24.922.414-8</RG>
+        <data_de_nascimento>06\/03\/1942</data_de_nascimento>
+        <endereco>
+            <logradouro>Travessa Beira Rio</logradouro>
+            <numero>623</numero>
+            <bairro>Parque Genibaú</bairro>
+            <cep>60535-145</cep>
+            <cidade>Fortaleza</cidade>
+            <estado>CE</estado>
+        </endereco>
+        <contato>
+            <telefone>(85) 3782-7805</telefone>
+            <celular>(85) 99845-8065</celular>
+            <email>eestherramos@technocut.com.br</email>
+        </contato>
+        <renda>4.000</renda>
+        <foto></foto>
+        <conta_corrente>
+            <banco>Banco do Brasil</banco>
+            <agencia>0884</agencia>
+            <numero_da_conta>200615-4</numero_da_conta>
+        </conta_corrente>
+    </usuario>
+    <usuario>
+        <nome>Jaqueline Stefany Elza Barros</nome>
+        <CPF>244.702.768-04</CPF>
+        <RG>41.740.328-8</RG>
+        <data_de_nascimento>09\/07\/1964</data_de_nascimento>
+        <endereco>
+            <logradouro>Rua José Treml</logradouro>
+            <numero>602</numero>
+            <bairro>Colonial</bairro>
+            <cep>89288-410</cep>
+            <cidade>São Bento do Sul</cidade>
+            <estado>SC</estado>
+        </endereco>
+        <contato>
+            <telefone>(47) 2646-4688</telefone>
+            <celular>(47) 98610-2777</celular>
+            <email>jaquelinestefanyelza@osbocops.com</email>
+        </contato>
+        <renda>3.000</renda>
+        <foto></foto>
+        <conta_corrente>
+            <banco>Banco do Brasil</banco>
+            <agencia>1777</agencia>
+            <numero_da_conta>1282133-0</numero_da_conta>
+        </conta_corrente>
+    </usuario>
+    <usuario>
+        <nome>Maya Elaine Souza</nome>
+        <CPF>327.439.117-43</CPF>
+        <RG>29.124.837-8</RG>
+        <data_de_nascimento>03\/02\/1968</data_de_nascimento>
+        <endereco>
+            <logradouro>Rua Carlos Chagas</logradouro>
+            <numero>894</numero>
+            <bairro>Barra do Ceará</bairro>
+            <cep>60332-772</cep>
+            <cidade>Fortaleza</cidade>
+            <estado>CE</estado>
+        </endereco>
+        <contato>
+            <telefone>(85) 3648-1744</telefone>
+            <celular>(85) 98502-0472</celular>
+            <email>mayaelainesouza_@davimil.com.br</email>
+        </contato>
+        <renda>2.000</renda>
+        <foto></foto>
+        <conta_corrente>
+            <banco>Bradesco</banco>
+            <agencia>5895</agencia>
+            <numero_da_conta>0301799-0</numero_da_conta>
+        </conta_corrente>
+    </usuario>
+    <usuario>
+        <nome>Luana Mariah Marina Corte Real</nome>
+        <CPF>146.277.640-06</CPF>
+        <RG>20.460.605-6</RG>
+        <data_de_nascimento>20\/04\/1976</data_de_nascimento>
+        <endereco>
+            <logradouro>Rua Projetada C - EJ</logradouro>
+            <numero>944</numero>
+            <bairro>Jardim das Primaveras</bairro>
+            <cep>60332-772</cep>
+            <cidade>Dourados</cidade>
+            <estado>MS</estado>
+        </endereco>
+        <contato>
+            <telefone>(67) 2555-1660</telefone>
+            <celular>(67) 98696-0631</celular>
+            <email>luanamaria@puenteimoveis.com.br</email>
+        </contato>
+        <renda>1.000</renda>
+        <foto></foto>
+        <conta_corrente>
+            <banco>Banco do Brasil</banco>
+            <agencia>8047</agencia>
+            <numero_da_conta>1034887-5</numero_da_conta>
+        </conta_corrente>
+    </usuario>
+</contibuinte>
